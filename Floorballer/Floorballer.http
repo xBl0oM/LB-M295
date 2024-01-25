@@ -1,0 +1,6 @@
+@Floorballer_HostAddress = http://localhost:5211
+
+GET {{Floorballer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
