@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Floorballer", "Floorballer.csproj", "{789EA41B-3A42-4092-944F-E7421DA2D3EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{789EA41B-3A42-4092-944F-E7421DA2D3EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{789EA41B-3A42-4092-944F-E7421DA2D3EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{789EA41B-3A42-4092-944F-E7421DA2D3EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{789EA41B-3A42-4092-944F-E7421DA2D3EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65D68AF3-C0A5-40F8-ADA9-C7BDDC5C3BB4}
+	EndGlobalSection
+EndGlobal
